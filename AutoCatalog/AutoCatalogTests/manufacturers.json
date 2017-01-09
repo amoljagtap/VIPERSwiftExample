@@ -1,0 +1,25 @@
+/* 
+  manufacturers.strings
+  AutoCatalog
+
+  Created by Jagtap, Amol on 1/8/17.
+  Copyright © 2017 Amol Jagtap. All rights reserved.
+*/
+
+{
+    "page" : 1,
+    "pageSize" : 10,
+    "totalPageCount" : 8,
+    "wkda" : {
+        "150" : "Cadillac",
+        "157" : "Caterham",
+        "160" : "Chevrolet",
+        "170" : "Chrysler",
+        "190" : "Citroen",
+        "191" : "Corvette",
+        "194" : "Dacia",
+        "195" : "Daewoo",
+        "210" : "Daihatsu",
+        "230" : "Dodge"
+    }
+}

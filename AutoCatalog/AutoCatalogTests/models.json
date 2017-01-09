@@ -1,0 +1,26 @@
+/* 
+  models.json
+  AutoCatalog
+
+  Created by Jagtap, Amol on 1/8/17.
+  Copyright © 2017 Amol Jagtap. All rights reserved.
+*/
+
+
+{
+    "page" : 1,
+    "pageSize" : 10,
+    "totalPageCount" : 4,
+    "wkda" : {
+        "A6" : "A6",
+        "A6 Allroad" : "A6 Allroad",
+        "A7" : "A7",
+        "A8" : "A8",
+        "Allroad" : "Allroad",
+        "Cabriolet" : "Cabriolet",
+        "Coupe" : "Coupe",
+        "Q3" : "Q3",
+        "Q5" : "Q5",
+        "Q7" : "Q7"
+    }
+}
